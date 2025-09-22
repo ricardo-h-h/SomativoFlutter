@@ -1,3 +1,6 @@
-# somativo_flutter
+Projeto Somativo da Disciplina: Flutter
 
-A new Flutter project.
+Grupo:
+Gustavo Horning
+Natan Batalha de Araújo
+Ricardo Horning Hammerschmidt
